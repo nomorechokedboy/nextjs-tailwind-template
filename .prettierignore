@@ -1,10 +1,10 @@
-.env
+.env*
 build
 node_modules
 .next
 public
 yarn.lock
-.dockerignore
+package-lock.json
+.*ignore
 .husky
-.prettierignore
 Dockerfile*
